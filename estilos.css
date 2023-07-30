@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(255, 205, 141);
+}
+p{
+    background-color: rgb(218, 185, 143);
+    color: brown;
+}
+
+
+
+/* Selectores referenciando clases */
+h1.nombre{
+    background-color: rgb(218, 185, 143);
+    color: rgba(165, 42, 42, 0.795);
+}
+
+
+tr.titulos{
+    background-color: rgb(218, 185, 143);
+    color: brown;
+}
+
+
+ul.listdesordenada{
+
+background-color: rgba(218, 185, 143, 0.795);
+color: darkseagreen;
+border: 2cap;
+border-color: aqua;
+}
+
+
+
+
+
+/* Selectores referenciando id  */
+
+#Exp{
+background-color: rgba(218, 185, 143, 0.795);    color: brown    ;
+}
+
+#Hab{
+    background-color: rgb(218, 185, 143)  ;
+    color: brown;
+    border-radius: 15%;
+}
+
+#Educ{
+    background-color: rgb(218, 185, 143)  ;
+    color: brown;
+}
+
+#Perf{
+    background-color: rgb(218, 185, 143)  ;
+    color: brown;
+}
